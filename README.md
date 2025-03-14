@@ -110,7 +110,6 @@ Edit the DBCode.java file in the amaze package:
 - Push to the branch:
         git push origin feature-branch
 - Open a Pull Request!
-- If you find any issues or have suggestions for improvement, feel free to fork the repository and submit a pull request.
 
 #  Support
 If you like this project, ⭐ star the repository and share it with others!
