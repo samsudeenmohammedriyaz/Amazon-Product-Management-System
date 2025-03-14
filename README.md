@@ -59,6 +59,7 @@ Edit the DBCode.java file in the amaze package:
         http://localhost:8080/AmazonProductManagement/index.jsp
 
 # Project Structure
+
 Amazon-Product-Management/
         │── src/main/java/amaze/
         │   ├── DBCode.java  (Database connection & operations)
