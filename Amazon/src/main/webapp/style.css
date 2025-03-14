@@ -1,0 +1,130 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+a {
+    text-decoration: none;
+    font-weight: bold;
+    color: #0073e6;
+}
+
+a:hover {
+    color: #ff6600;
+}
+
+h1 {
+    color: #333;
+    margin-top: 20px;
+}
+
+form {
+    background: white;
+    padding: 20px;
+    width: 50%;
+    margin: auto;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+}
+
+table {
+    width: 100%;
+    margin: 10px 0;
+    border-collapse: collapse;
+}
+
+td {
+    padding: 10px;
+}
+
+label {
+    font-weight: bold;
+}
+
+input[type="text"],
+input[type="number"],
+select {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+input[type="submit"],
+input[type="reset"] {
+    background-color: #0073e6;
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+input[type="submit"]:hover {
+    background-color: #005bb5;
+}
+
+input[type="reset"] {
+    background-color: #ccc;
+    color: black;
+}
+
+input[type="reset"]:hover {
+    background-color: #999;
+}
+
+/* Table Styling */
+table {
+    width: 80%;
+    margin: 20px auto;
+    background: white;
+    border-collapse: collapse;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+
+th, td {
+    border: 1px solid #ddd;
+    padding: 10px;
+    text-align: left;
+}
+
+th {
+    background: #0073e6;
+    color: white;
+}
+
+tr:nth-child(even) {
+    background: #f2f2f2;
+}
+
+tr:hover {
+    background: #ddd;
+}
+
+.action-btn {
+    padding: 8px 12px;
+    border-radius: 4px;
+    font-weight: bold;
+    display: inline-block;
+    text-align: center;
+}
+
+.edit-btn {
+    background: #ffcc00;
+    color: black;
+}
+
+.delete-btn {
+    background: #ff3300;
+    color: white;
+}
+
+.edit-btn:hover {
+    background: #e6b800;
+}
+
+.delete-btn:hover {
+    background: #cc2900;
+}
