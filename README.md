@@ -76,9 +76,18 @@ Edit the DBCode.java file in the amaze package:
 #  Screenshots
 ## Homepage (Add Products)
 
+![Homepage](https://github.com/user-attachments/assets/92515ee0-03d9-4f51-9bfb-3f51eabd09dd)
+
+
 ## Product List (View & Delete)
 
+![Product List](https://github.com/user-attachments/assets/7d989560-35b6-4b36-bf79-4b98e0551cfe)
+
+
 ## Edit Product Price
+
+![Edit Product Price](https://github.com/user-attachments/assets/40542595-580a-408e-9151-fb3626bfa0f2)
+
 
 # Features
 - Responsive UI with Bootstrap.
