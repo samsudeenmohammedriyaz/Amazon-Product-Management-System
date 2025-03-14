@@ -9,11 +9,13 @@ This project is a Dynamic Web Application built using Java EE and MySQL as the d
 - Delete products from the database.
 
 ## Technologies Used
-## Technology	             Description
-Java EE	                   Backend logic using JSP and Servlets
-MySQL	                     Database for storing product details
-JDBC	                     Connecting Java application to MySQL
-JSP (Java Server Pages)  	 Creating dynamic web pages
-Bootstrap 5	               Responsive UI design
-Eclipse IDE	               Development environment
-Apache Tomcat	             Web server for running the application
+
+| Technology  | Description |
+|------------|------------|
+| **Java EE** | Backend logic using JSP and Servlets |
+| **MySQL** | Database for storing product details |
+| **JDBC** | Connecting Java application to MySQL |
+| **JSP (Java Server Pages)** | Creating dynamic web pages |
+| **Bootstrap 5** | Responsive UI design |
+| **Eclipse IDE** | Development environment |
+| **Apache Tomcat** | Web server for running the application |
