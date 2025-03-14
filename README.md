@@ -22,9 +22,9 @@ This project is a Dynamic Web Application built using Java EE and MySQL as the d
 
 ## Database Schema
 Before running the project, create the MySQL database and table using the following SQL script:
+    
     CREATE DATABASE amazon;
     USE amazon;
-
     CREATE TABLE product (
         id INT PRIMARY KEY AUTO_INCREMENT,
         name VARCHAR(50),
