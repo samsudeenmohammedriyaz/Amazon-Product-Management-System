@@ -19,3 +19,17 @@ This project is a Dynamic Web Application built using Java EE and MySQL as the d
 | **Bootstrap 5** | Responsive UI design |
 | **Eclipse IDE** | Development environment |
 | **Apache Tomcat** | Web server for running the application |
+
+## Database Schema
+Before running the project, create the MySQL database and table using the following SQL script:
+    CREATE DATABASE amazon;
+    USE amazon;
+    
+    CREATE TABLE product (
+        id INT PRIMARY KEY AUTO_INCREMENT,
+        name VARCHAR(50),
+        brand VARCHAR(50),
+        price FLOAT CHECK(price > 0),
+        company VARCHAR(30) DEFAULT 'Amazon Corp.'
+    );
+
