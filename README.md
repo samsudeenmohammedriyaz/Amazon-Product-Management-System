@@ -60,7 +60,7 @@ Edit the DBCode.java file in the amaze package:
 
 # Project Structure
 
-Amazon-Product-Management/
+        Amazon-Product-Management/
         │── src/main/java/amaze/
         │   ├── DBCode.java  (Database connection & operations)
         │   ├── Product.java  (Product Model Class)
@@ -71,6 +71,7 @@ Amazon-Product-Management/
         │── lib/  (MySQL JDBC Connector)
         │── Web.xml  (Servlet Configuration)
         │── pom.xml  (For Maven users)
+
 
 #  Screenshots
 ## Homepage (Add Products)
