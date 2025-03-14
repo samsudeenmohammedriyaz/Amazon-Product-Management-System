@@ -106,5 +106,5 @@ Edit the DBCode.java file in the amaze package:
 If you like this project, ⭐ star the repository and share it with others!
 For issues or suggestions, open a GitHub issue.
 
-#Author
+# Author
 SAMSUDEEN MOHAMMED RIYAZ S
